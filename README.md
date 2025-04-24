@@ -1,5 +1,5 @@
 # Smart-Shelf-Monitoring-System
-## Smart Shelf Monitoring System
+
 
 This is my final year IoT project for BSc (Hons) in Computing.  
 It uses an Arduino Nano 33 IoT, push-button sensors, and ThingSpeak to track stock levels on shelves in real time.
